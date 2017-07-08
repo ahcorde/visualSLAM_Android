@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/jni/vision
+END
+ImageHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/jni/vision/ImageHandler.cpp
+END
+ImageHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/jni/vision/ImageHandler.h
+END
+cvfast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/jni/vision/cvfast.cpp
+END
+cvfast.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/jni/vision/cvfast.h
+END

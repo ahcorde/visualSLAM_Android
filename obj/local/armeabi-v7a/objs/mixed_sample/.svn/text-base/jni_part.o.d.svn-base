@@ -1,0 +1,689 @@
+obj/local/armeabi-v7a/objs/mixed_sample/jni_part.o: jni/jni_part.cpp \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/core/core.hpp \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/core/types_c.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/assert.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/sys/cdefs.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/sys/cdefs_elf.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/android/api-level.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/stdlib.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/string.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/malloc.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/alloca.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/strings.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/sys/types.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/stdint.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/sys/_types.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/machine/_types.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/linux/posix_types.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/linux/stddef.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/linux/compiler.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/asm/posix_types.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/asm/types.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/linux/types.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/machine/kernel.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/sys/sysmacros.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/memory.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/math.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/limits.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/sys/limits.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/linux/limits.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/machine/internal_types.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/machine/limits.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/sys/syslimits.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/asm/page.h \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/core/version.hpp \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/algorithm \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/cmath \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/cstddef \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/complex \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/map \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/vector \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/core/operations.hpp \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/limits \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/core/mat.hpp \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/imgproc/imgproc.hpp \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/imgproc/types_c.h \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/core/core_c.h \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/features2d/features2d.hpp \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/flann/miniflann.hpp \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/flann/defines.h \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/flann/config.h \
+ jni/vision/cvfast.h \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv/cvaux.h \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/imgproc/imgproc_c.h \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/video/tracking.hpp \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/video/background_segm.hpp \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/list \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/calib3d/calib3d.hpp \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/objdetect/objdetect.hpp \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/deque \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/legacy/legacy.hpp \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/ml/ml.hpp \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/iostream \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/legacy/compat.hpp \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/legacy/blobtrack.hpp \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/contrib/contrib.hpp \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/contrib/retina.hpp \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/valarray \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/contrib/openfabmap.hpp \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/set \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/highgui/highgui.hpp \
+ /home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/highgui/highgui_c.h \
+ /usr/include/eigen3/Eigen/Dense /usr/include/eigen3/Eigen/Core \
+ /usr/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h \
+ /usr/include/eigen3/Eigen/src/Core/util/Macros.h \
+ /usr/include/eigen3/Eigen/src/Core/util/MKL_support.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/cerrno \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/cassert \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/functional \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/cstring \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/climits \
+ /usr/include/eigen3/Eigen/src/Core/util/Constants.h \
+ /usr/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h \
+ /usr/include/eigen3/Eigen/src/Core/util/Meta.h \
+ /usr/include/eigen3/Eigen/src/Core/util/XprHelper.h \
+ /usr/include/eigen3/Eigen/src/Core/util/StaticAssert.h \
+ /usr/include/eigen3/Eigen/src/Core/util/Memory.h \
+ /usr/include/eigen3/Eigen/src/Core/NumTraits.h \
+ /usr/include/eigen3/Eigen/src/Core/MathFunctions.h \
+ /usr/include/eigen3/Eigen/src/Core/GenericPacketMath.h \
+ /usr/include/eigen3/Eigen/src/Core/arch/Default/Settings.h \
+ /usr/include/eigen3/Eigen/src/Core/Functors.h \
+ /usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h \
+ /usr/include/eigen3/Eigen/src/Core/DenseBase.h \
+ /usr/include/eigen3/Eigen/src/Core/../plugins/BlockMethods.h \
+ /usr/include/eigen3/Eigen/src/Core/MatrixBase.h \
+ /usr/include/eigen3/Eigen/src/Core/../plugins/CommonCwiseUnaryOps.h \
+ /usr/include/eigen3/Eigen/src/Core/../plugins/CommonCwiseBinaryOps.h \
+ /usr/include/eigen3/Eigen/src/Core/../plugins/MatrixCwiseUnaryOps.h \
+ /usr/include/eigen3/Eigen/src/Core/../plugins/MatrixCwiseBinaryOps.h \
+ /usr/include/eigen3/Eigen/src/Core/EigenBase.h \
+ /usr/include/eigen3/Eigen/src/Core/Assign.h \
+ /usr/include/eigen3/Eigen/src/Core/util/BlasUtil.h \
+ /usr/include/eigen3/Eigen/src/Core/DenseStorage.h \
+ /usr/include/eigen3/Eigen/src/Core/NestByValue.h \
+ /usr/include/eigen3/Eigen/src/Core/ForceAlignedAccess.h \
+ /usr/include/eigen3/Eigen/src/Core/ReturnByValue.h \
+ /usr/include/eigen3/Eigen/src/Core/NoAlias.h \
+ /usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h \
+ /usr/include/eigen3/Eigen/src/Core/Matrix.h \
+ /usr/include/eigen3/Eigen/src/Core/Array.h \
+ /usr/include/eigen3/Eigen/src/Core/CwiseBinaryOp.h \
+ /usr/include/eigen3/Eigen/src/Core/CwiseUnaryOp.h \
+ /usr/include/eigen3/Eigen/src/Core/CwiseNullaryOp.h \
+ /usr/include/eigen3/Eigen/src/Core/CwiseUnaryView.h \
+ /usr/include/eigen3/Eigen/src/Core/SelfCwiseBinaryOp.h \
+ /usr/include/eigen3/Eigen/src/Core/Dot.h \
+ /usr/include/eigen3/Eigen/src/Core/StableNorm.h \
+ /usr/include/eigen3/Eigen/src/Core/MapBase.h \
+ /usr/include/eigen3/Eigen/src/Core/Stride.h \
+ /usr/include/eigen3/Eigen/src/Core/Map.h \
+ /usr/include/eigen3/Eigen/src/Core/Block.h \
+ /usr/include/eigen3/Eigen/src/Core/VectorBlock.h \
+ /usr/include/eigen3/Eigen/src/Core/Transpose.h \
+ /usr/include/eigen3/Eigen/src/Core/DiagonalMatrix.h \
+ /usr/include/eigen3/Eigen/src/Core/Diagonal.h \
+ /usr/include/eigen3/Eigen/src/Core/DiagonalProduct.h \
+ /usr/include/eigen3/Eigen/src/Core/PermutationMatrix.h \
+ /usr/include/eigen3/Eigen/src/Core/Transpositions.h \
+ /usr/include/eigen3/Eigen/src/Core/Redux.h \
+ /usr/include/eigen3/Eigen/src/Core/Visitor.h \
+ /usr/include/eigen3/Eigen/src/Core/Fuzzy.h \
+ /usr/include/eigen3/Eigen/src/Core/IO.h \
+ /usr/include/eigen3/Eigen/src/Core/Swap.h \
+ /usr/include/eigen3/Eigen/src/Core/CommaInitializer.h \
+ /usr/include/eigen3/Eigen/src/Core/Flagged.h \
+ /usr/include/eigen3/Eigen/src/Core/ProductBase.h \
+ /usr/include/eigen3/Eigen/src/Core/GeneralProduct.h \
+ /usr/include/eigen3/Eigen/src/Core/TriangularMatrix.h \
+ /usr/include/eigen3/Eigen/src/Core/SelfAdjointView.h \
+ /usr/include/eigen3/Eigen/src/Core/products/GeneralBlockPanelKernel.h \
+ /usr/include/eigen3/Eigen/src/Core/products/Parallelizer.h \
+ /usr/include/eigen3/Eigen/src/Core/products/CoeffBasedProduct.h \
+ /usr/include/eigen3/Eigen/src/Core/products/GeneralMatrixVector.h \
+ /usr/include/eigen3/Eigen/src/Core/products/GeneralMatrixMatrix.h \
+ /usr/include/eigen3/Eigen/src/Core/SolveTriangular.h \
+ /usr/include/eigen3/Eigen/src/Core/products/GeneralMatrixMatrixTriangular.h \
+ /usr/include/eigen3/Eigen/src/Core/products/SelfadjointMatrixVector.h \
+ /usr/include/eigen3/Eigen/src/Core/products/SelfadjointMatrixMatrix.h \
+ /usr/include/eigen3/Eigen/src/Core/products/SelfadjointProduct.h \
+ /usr/include/eigen3/Eigen/src/Core/products/SelfadjointRank2Update.h \
+ /usr/include/eigen3/Eigen/src/Core/products/TriangularMatrixVector.h \
+ /usr/include/eigen3/Eigen/src/Core/products/TriangularMatrixMatrix.h \
+ /usr/include/eigen3/Eigen/src/Core/products/TriangularSolverMatrix.h \
+ /usr/include/eigen3/Eigen/src/Core/products/TriangularSolverVector.h \
+ /usr/include/eigen3/Eigen/src/Core/BandMatrix.h \
+ /usr/include/eigen3/Eigen/src/Core/BooleanRedux.h \
+ /usr/include/eigen3/Eigen/src/Core/Select.h \
+ /usr/include/eigen3/Eigen/src/Core/VectorwiseOp.h \
+ /usr/include/eigen3/Eigen/src/Core/Random.h \
+ /usr/include/eigen3/Eigen/src/Core/Replicate.h \
+ /usr/include/eigen3/Eigen/src/Core/Reverse.h \
+ /usr/include/eigen3/Eigen/src/Core/ArrayBase.h \
+ /usr/include/eigen3/Eigen/src/Core/../plugins/ArrayCwiseUnaryOps.h \
+ /usr/include/eigen3/Eigen/src/Core/../plugins/ArrayCwiseBinaryOps.h \
+ /usr/include/eigen3/Eigen/src/Core/ArrayWrapper.h \
+ /usr/include/eigen3/Eigen/src/Core/GlobalFunctions.h \
+ /usr/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h \
+ /usr/include/eigen3/Eigen/LU /usr/include/eigen3/Eigen/src/misc/Solve.h \
+ /usr/include/eigen3/Eigen/src/misc/Kernel.h \
+ /usr/include/eigen3/Eigen/src/misc/Image.h \
+ /usr/include/eigen3/Eigen/src/LU/FullPivLU.h \
+ /usr/include/eigen3/Eigen/src/LU/PartialPivLU.h \
+ /usr/include/eigen3/Eigen/src/LU/Determinant.h \
+ /usr/include/eigen3/Eigen/src/LU/Inverse.h \
+ /usr/include/eigen3/Eigen/Cholesky \
+ /usr/include/eigen3/Eigen/src/Cholesky/LLT.h \
+ /usr/include/eigen3/Eigen/src/Cholesky/LDLT.h \
+ /usr/include/eigen3/Eigen/QR /usr/include/eigen3/Eigen/Jacobi \
+ /usr/include/eigen3/Eigen/src/Jacobi/Jacobi.h \
+ /usr/include/eigen3/Eigen/Householder \
+ /usr/include/eigen3/Eigen/src/Householder/Householder.h \
+ /usr/include/eigen3/Eigen/src/Householder/HouseholderSequence.h \
+ /usr/include/eigen3/Eigen/src/Householder/BlockHouseholder.h \
+ /usr/include/eigen3/Eigen/src/QR/HouseholderQR.h \
+ /usr/include/eigen3/Eigen/src/QR/FullPivHouseholderQR.h \
+ /usr/include/eigen3/Eigen/src/QR/ColPivHouseholderQR.h \
+ /usr/include/eigen3/Eigen/SVD \
+ /usr/include/eigen3/Eigen/src/SVD/JacobiSVD.h \
+ /usr/include/eigen3/Eigen/src/SVD/UpperBidiagonalization.h \
+ /usr/include/eigen3/Eigen/Geometry \
+ /usr/include/eigen3/Eigen/src/Geometry/OrthoMethods.h \
+ /usr/include/eigen3/Eigen/src/Geometry/EulerAngles.h \
+ /usr/include/eigen3/Eigen/src/Geometry/Homogeneous.h \
+ /usr/include/eigen3/Eigen/src/Geometry/RotationBase.h \
+ /usr/include/eigen3/Eigen/src/Geometry/Rotation2D.h \
+ /usr/include/eigen3/Eigen/src/Geometry/Quaternion.h \
+ /usr/include/eigen3/Eigen/src/Geometry/AngleAxis.h \
+ /usr/include/eigen3/Eigen/src/Geometry/Transform.h \
+ /usr/include/eigen3/Eigen/src/Geometry/Translation.h \
+ /usr/include/eigen3/Eigen/src/Geometry/Scaling.h \
+ /usr/include/eigen3/Eigen/src/Geometry/Hyperplane.h \
+ /usr/include/eigen3/Eigen/src/Geometry/ParametrizedLine.h \
+ /usr/include/eigen3/Eigen/src/Geometry/AlignedBox.h \
+ /usr/include/eigen3/Eigen/src/Geometry/Umeyama.h \
+ /usr/include/eigen3/Eigen/Eigenvalues \
+ /usr/include/eigen3/Eigen/src/Eigenvalues/Tridiagonalization.h \
+ /usr/include/eigen3/Eigen/src/Eigenvalues/RealSchur.h \
+ /usr/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h \
+ /usr/include/eigen3/Eigen/src/Eigenvalues/EigenSolver.h \
+ /usr/include/eigen3/Eigen/src/Eigenvalues/./RealSchur.h \
+ /usr/include/eigen3/Eigen/src/Eigenvalues/SelfAdjointEigenSolver.h \
+ /usr/include/eigen3/Eigen/src/Eigenvalues/./Tridiagonalization.h \
+ /usr/include/eigen3/Eigen/src/Eigenvalues/GeneralizedSelfAdjointEigenSolver.h \
+ /usr/include/eigen3/Eigen/src/Eigenvalues/HessenbergDecomposition.h \
+ /usr/include/eigen3/Eigen/src/Eigenvalues/ComplexSchur.h \
+ /usr/include/eigen3/Eigen/src/Eigenvalues/ComplexEigenSolver.h \
+ /usr/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h \
+ /usr/include/eigen3/Eigen/src/Eigenvalues/MatrixBaseEigenvalues.h \
+ jni/KeyFrame.h jni/RT.h jni/ATANCamera.h jni/Map.h jni/MapMaker.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/queue \
+ jni/Tracker.h jni/MiniPatch.h jni/vision/ImageHandler.h \
+ jni/Relocaliser.h jni/SmallBlurryImage.h jni/myWLS.h \
+ /home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/jni.h
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/core/core.hpp:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/core/types_c.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/assert.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/sys/cdefs.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/sys/cdefs_elf.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/android/api-level.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/stdlib.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/string.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/malloc.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/alloca.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/strings.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/sys/types.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/stdint.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/sys/_types.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/machine/_types.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/linux/posix_types.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/linux/stddef.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/linux/compiler.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/asm/posix_types.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/asm/types.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/linux/types.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/machine/kernel.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/sys/sysmacros.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/memory.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/math.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/limits.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/sys/limits.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/linux/limits.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/machine/internal_types.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/machine/limits.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/sys/syslimits.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/asm/page.h:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/core/version.hpp:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/algorithm:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/cmath:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/cstddef:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/complex:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/map:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/vector:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/core/operations.hpp:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/limits:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/core/mat.hpp:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/imgproc/imgproc.hpp:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/imgproc/types_c.h:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/core/core_c.h:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/features2d/features2d.hpp:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/flann/miniflann.hpp:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/flann/defines.h:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/flann/config.h:
+
+jni/vision/cvfast.h:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv/cvaux.h:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/imgproc/imgproc_c.h:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/video/tracking.hpp:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/video/background_segm.hpp:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/list:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/calib3d/calib3d.hpp:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/objdetect/objdetect.hpp:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/deque:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/legacy/legacy.hpp:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/ml/ml.hpp:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/iostream:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/legacy/compat.hpp:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/legacy/blobtrack.hpp:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/contrib/contrib.hpp:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/contrib/retina.hpp:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/valarray:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/contrib/openfabmap.hpp:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/set:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/highgui/highgui.hpp:
+
+/home/ahcorde/Librerias/OpenCV-2.4.6-android-sdk/sdk/native/jni/include/opencv2/highgui/highgui_c.h:
+
+/usr/include/eigen3/Eigen/Dense:
+
+/usr/include/eigen3/Eigen/Core:
+
+/usr/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h:
+
+/usr/include/eigen3/Eigen/src/Core/util/Macros.h:
+
+/usr/include/eigen3/Eigen/src/Core/util/MKL_support.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/cerrno:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/cassert:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/functional:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/cstring:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/climits:
+
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:
+
+/usr/include/eigen3/Eigen/src/Core/util/ForwardDeclarations.h:
+
+/usr/include/eigen3/Eigen/src/Core/util/Meta.h:
+
+/usr/include/eigen3/Eigen/src/Core/util/XprHelper.h:
+
+/usr/include/eigen3/Eigen/src/Core/util/StaticAssert.h:
+
+/usr/include/eigen3/Eigen/src/Core/util/Memory.h:
+
+/usr/include/eigen3/Eigen/src/Core/NumTraits.h:
+
+/usr/include/eigen3/Eigen/src/Core/MathFunctions.h:
+
+/usr/include/eigen3/Eigen/src/Core/GenericPacketMath.h:
+
+/usr/include/eigen3/Eigen/src/Core/arch/Default/Settings.h:
+
+/usr/include/eigen3/Eigen/src/Core/Functors.h:
+
+/usr/include/eigen3/Eigen/src/Core/DenseCoeffsBase.h:
+
+/usr/include/eigen3/Eigen/src/Core/DenseBase.h:
+
+/usr/include/eigen3/Eigen/src/Core/../plugins/BlockMethods.h:
+
+/usr/include/eigen3/Eigen/src/Core/MatrixBase.h:
+
+/usr/include/eigen3/Eigen/src/Core/../plugins/CommonCwiseUnaryOps.h:
+
+/usr/include/eigen3/Eigen/src/Core/../plugins/CommonCwiseBinaryOps.h:
+
+/usr/include/eigen3/Eigen/src/Core/../plugins/MatrixCwiseUnaryOps.h:
+
+/usr/include/eigen3/Eigen/src/Core/../plugins/MatrixCwiseBinaryOps.h:
+
+/usr/include/eigen3/Eigen/src/Core/EigenBase.h:
+
+/usr/include/eigen3/Eigen/src/Core/Assign.h:
+
+/usr/include/eigen3/Eigen/src/Core/util/BlasUtil.h:
+
+/usr/include/eigen3/Eigen/src/Core/DenseStorage.h:
+
+/usr/include/eigen3/Eigen/src/Core/NestByValue.h:
+
+/usr/include/eigen3/Eigen/src/Core/ForceAlignedAccess.h:
+
+/usr/include/eigen3/Eigen/src/Core/ReturnByValue.h:
+
+/usr/include/eigen3/Eigen/src/Core/NoAlias.h:
+
+/usr/include/eigen3/Eigen/src/Core/PlainObjectBase.h:
+
+/usr/include/eigen3/Eigen/src/Core/Matrix.h:
+
+/usr/include/eigen3/Eigen/src/Core/Array.h:
+
+/usr/include/eigen3/Eigen/src/Core/CwiseBinaryOp.h:
+
+/usr/include/eigen3/Eigen/src/Core/CwiseUnaryOp.h:
+
+/usr/include/eigen3/Eigen/src/Core/CwiseNullaryOp.h:
+
+/usr/include/eigen3/Eigen/src/Core/CwiseUnaryView.h:
+
+/usr/include/eigen3/Eigen/src/Core/SelfCwiseBinaryOp.h:
+
+/usr/include/eigen3/Eigen/src/Core/Dot.h:
+
+/usr/include/eigen3/Eigen/src/Core/StableNorm.h:
+
+/usr/include/eigen3/Eigen/src/Core/MapBase.h:
+
+/usr/include/eigen3/Eigen/src/Core/Stride.h:
+
+/usr/include/eigen3/Eigen/src/Core/Map.h:
+
+/usr/include/eigen3/Eigen/src/Core/Block.h:
+
+/usr/include/eigen3/Eigen/src/Core/VectorBlock.h:
+
+/usr/include/eigen3/Eigen/src/Core/Transpose.h:
+
+/usr/include/eigen3/Eigen/src/Core/DiagonalMatrix.h:
+
+/usr/include/eigen3/Eigen/src/Core/Diagonal.h:
+
+/usr/include/eigen3/Eigen/src/Core/DiagonalProduct.h:
+
+/usr/include/eigen3/Eigen/src/Core/PermutationMatrix.h:
+
+/usr/include/eigen3/Eigen/src/Core/Transpositions.h:
+
+/usr/include/eigen3/Eigen/src/Core/Redux.h:
+
+/usr/include/eigen3/Eigen/src/Core/Visitor.h:
+
+/usr/include/eigen3/Eigen/src/Core/Fuzzy.h:
+
+/usr/include/eigen3/Eigen/src/Core/IO.h:
+
+/usr/include/eigen3/Eigen/src/Core/Swap.h:
+
+/usr/include/eigen3/Eigen/src/Core/CommaInitializer.h:
+
+/usr/include/eigen3/Eigen/src/Core/Flagged.h:
+
+/usr/include/eigen3/Eigen/src/Core/ProductBase.h:
+
+/usr/include/eigen3/Eigen/src/Core/GeneralProduct.h:
+
+/usr/include/eigen3/Eigen/src/Core/TriangularMatrix.h:
+
+/usr/include/eigen3/Eigen/src/Core/SelfAdjointView.h:
+
+/usr/include/eigen3/Eigen/src/Core/products/GeneralBlockPanelKernel.h:
+
+/usr/include/eigen3/Eigen/src/Core/products/Parallelizer.h:
+
+/usr/include/eigen3/Eigen/src/Core/products/CoeffBasedProduct.h:
+
+/usr/include/eigen3/Eigen/src/Core/products/GeneralMatrixVector.h:
+
+/usr/include/eigen3/Eigen/src/Core/products/GeneralMatrixMatrix.h:
+
+/usr/include/eigen3/Eigen/src/Core/SolveTriangular.h:
+
+/usr/include/eigen3/Eigen/src/Core/products/GeneralMatrixMatrixTriangular.h:
+
+/usr/include/eigen3/Eigen/src/Core/products/SelfadjointMatrixVector.h:
+
+/usr/include/eigen3/Eigen/src/Core/products/SelfadjointMatrixMatrix.h:
+
+/usr/include/eigen3/Eigen/src/Core/products/SelfadjointProduct.h:
+
+/usr/include/eigen3/Eigen/src/Core/products/SelfadjointRank2Update.h:
+
+/usr/include/eigen3/Eigen/src/Core/products/TriangularMatrixVector.h:
+
+/usr/include/eigen3/Eigen/src/Core/products/TriangularMatrixMatrix.h:
+
+/usr/include/eigen3/Eigen/src/Core/products/TriangularSolverMatrix.h:
+
+/usr/include/eigen3/Eigen/src/Core/products/TriangularSolverVector.h:
+
+/usr/include/eigen3/Eigen/src/Core/BandMatrix.h:
+
+/usr/include/eigen3/Eigen/src/Core/BooleanRedux.h:
+
+/usr/include/eigen3/Eigen/src/Core/Select.h:
+
+/usr/include/eigen3/Eigen/src/Core/VectorwiseOp.h:
+
+/usr/include/eigen3/Eigen/src/Core/Random.h:
+
+/usr/include/eigen3/Eigen/src/Core/Replicate.h:
+
+/usr/include/eigen3/Eigen/src/Core/Reverse.h:
+
+/usr/include/eigen3/Eigen/src/Core/ArrayBase.h:
+
+/usr/include/eigen3/Eigen/src/Core/../plugins/ArrayCwiseUnaryOps.h:
+
+/usr/include/eigen3/Eigen/src/Core/../plugins/ArrayCwiseBinaryOps.h:
+
+/usr/include/eigen3/Eigen/src/Core/ArrayWrapper.h:
+
+/usr/include/eigen3/Eigen/src/Core/GlobalFunctions.h:
+
+/usr/include/eigen3/Eigen/src/Core/util/ReenableStupidWarnings.h:
+
+/usr/include/eigen3/Eigen/LU:
+
+/usr/include/eigen3/Eigen/src/misc/Solve.h:
+
+/usr/include/eigen3/Eigen/src/misc/Kernel.h:
+
+/usr/include/eigen3/Eigen/src/misc/Image.h:
+
+/usr/include/eigen3/Eigen/src/LU/FullPivLU.h:
+
+/usr/include/eigen3/Eigen/src/LU/PartialPivLU.h:
+
+/usr/include/eigen3/Eigen/src/LU/Determinant.h:
+
+/usr/include/eigen3/Eigen/src/LU/Inverse.h:
+
+/usr/include/eigen3/Eigen/Cholesky:
+
+/usr/include/eigen3/Eigen/src/Cholesky/LLT.h:
+
+/usr/include/eigen3/Eigen/src/Cholesky/LDLT.h:
+
+/usr/include/eigen3/Eigen/QR:
+
+/usr/include/eigen3/Eigen/Jacobi:
+
+/usr/include/eigen3/Eigen/src/Jacobi/Jacobi.h:
+
+/usr/include/eigen3/Eigen/Householder:
+
+/usr/include/eigen3/Eigen/src/Householder/Householder.h:
+
+/usr/include/eigen3/Eigen/src/Householder/HouseholderSequence.h:
+
+/usr/include/eigen3/Eigen/src/Householder/BlockHouseholder.h:
+
+/usr/include/eigen3/Eigen/src/QR/HouseholderQR.h:
+
+/usr/include/eigen3/Eigen/src/QR/FullPivHouseholderQR.h:
+
+/usr/include/eigen3/Eigen/src/QR/ColPivHouseholderQR.h:
+
+/usr/include/eigen3/Eigen/SVD:
+
+/usr/include/eigen3/Eigen/src/SVD/JacobiSVD.h:
+
+/usr/include/eigen3/Eigen/src/SVD/UpperBidiagonalization.h:
+
+/usr/include/eigen3/Eigen/Geometry:
+
+/usr/include/eigen3/Eigen/src/Geometry/OrthoMethods.h:
+
+/usr/include/eigen3/Eigen/src/Geometry/EulerAngles.h:
+
+/usr/include/eigen3/Eigen/src/Geometry/Homogeneous.h:
+
+/usr/include/eigen3/Eigen/src/Geometry/RotationBase.h:
+
+/usr/include/eigen3/Eigen/src/Geometry/Rotation2D.h:
+
+/usr/include/eigen3/Eigen/src/Geometry/Quaternion.h:
+
+/usr/include/eigen3/Eigen/src/Geometry/AngleAxis.h:
+
+/usr/include/eigen3/Eigen/src/Geometry/Transform.h:
+
+/usr/include/eigen3/Eigen/src/Geometry/Translation.h:
+
+/usr/include/eigen3/Eigen/src/Geometry/Scaling.h:
+
+/usr/include/eigen3/Eigen/src/Geometry/Hyperplane.h:
+
+/usr/include/eigen3/Eigen/src/Geometry/ParametrizedLine.h:
+
+/usr/include/eigen3/Eigen/src/Geometry/AlignedBox.h:
+
+/usr/include/eigen3/Eigen/src/Geometry/Umeyama.h:
+
+/usr/include/eigen3/Eigen/Eigenvalues:
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/Tridiagonalization.h:
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/RealSchur.h:
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h:
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/EigenSolver.h:
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/./RealSchur.h:
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/SelfAdjointEigenSolver.h:
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/./Tridiagonalization.h:
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/GeneralizedSelfAdjointEigenSolver.h:
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/HessenbergDecomposition.h:
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/ComplexSchur.h:
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/ComplexEigenSolver.h:
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h:
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/MatrixBaseEigenvalues.h:
+
+jni/KeyFrame.h:
+
+jni/RT.h:
+
+jni/ATANCamera.h:
+
+jni/Map.h:
+
+jni/MapMaker.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/sources/cxx-stl/gnu-libstdc++/4.6/include/queue:
+
+jni/Tracker.h:
+
+jni/MiniPatch.h:
+
+jni/vision/ImageHandler.h:
+
+jni/Relocaliser.h:
+
+jni/SmallBlurryImage.h:
+
+jni/myWLS.h:
+
+/home/ahcorde/Librerias/android-ndk-r8d/platforms/android-8/arch-arm/usr/include/jni.h:

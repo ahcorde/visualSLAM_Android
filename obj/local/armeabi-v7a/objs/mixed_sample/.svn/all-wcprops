@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/obj/local/armeabi-v7a/objs/mixed_sample
+END
+HomographyInit.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/obj/local/armeabi-v7a/objs/mixed_sample/HomographyInit.o.d
+END
+KeyFrame.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/obj/local/armeabi-v7a/objs/mixed_sample/KeyFrame.o.d
+END
+Relocaliser.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/obj/local/armeabi-v7a/objs/mixed_sample/Relocaliser.o.d
+END
+jni_part.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/obj/local/armeabi-v7a/objs/mixed_sample/jni_part.o.d
+END
+MapPoint.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/obj/local/armeabi-v7a/objs/mixed_sample/MapPoint.o.d
+END
+PatchFinder.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/obj/local/armeabi-v7a/objs/mixed_sample/PatchFinder.o.d
+END
+Bundle.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/obj/local/armeabi-v7a/objs/mixed_sample/Bundle.o.d
+END
+SmallBlurryImage.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/obj/local/armeabi-v7a/objs/mixed_sample/SmallBlurryImage.o.d
+END
+Tracker.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/obj/local/armeabi-v7a/objs/mixed_sample/Tracker.o.d
+END
+ATANCamera.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/obj/local/armeabi-v7a/objs/mixed_sample/ATANCamera.o.d
+END
+MiniPatch.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/obj/local/armeabi-v7a/objs/mixed_sample/MiniPatch.o.d
+END
+Map.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/obj/local/armeabi-v7a/objs/mixed_sample/Map.o.d
+END
+MapMaker.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/users/ahcorde/tfm/!svn/ver/85/trunk/visualSLAM_mobile/monoslam/obj/local/armeabi-v7a/objs/mixed_sample/MapMaker.o.d
+END
